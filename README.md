@@ -1,3 +1,7 @@
+The original datasets including hurricane characteristics (ian.xlsx) and power outage data (Ian.csv) are in my google drive in this link https://drive.google.com/drive/folders/1RkxZu23qWTWTRnUgQNJANqFvnhPQRsxE?usp=drive_link
+
+
+
 HURRICANE IAN 
 
 Among the 19 hurricanes that made landfall between 2017 and 2023, Hurricane Ian (2022) has been selected for the landfall in Florida USA.
