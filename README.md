@@ -1,4 +1,4 @@
-The original datasets including hurricane characteristics (ian.xlsx) and power outage data (Ian.csv) are in my google drive in this link https://drive.google.com/drive/folders/1RkxZu23qWTWTRnUgQNJANqFvnhPQRsxE?usp=drive_link
+The original datasets from which I extracted all data used, including hurricane characteristics (ian.xlsx) and power outage (Ian.csv) and the social vulnerability data are in my google drive in this link https://drive.google.com/drive/folders/1RkxZu23qWTWTRnUgQNJANqFvnhPQRsxE?usp=drive_link
 
 
 
