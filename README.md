@@ -14,9 +14,9 @@ Clusters analysis- K-means clustering, hierarchical clustering, and DBSCAN.
 Find correlation between power outage (spatial lag y) and the factors (x) under consideration. This is characterized by the association between the values of x in a county and the spatial lag of y (the average value of neighbouring counties), where x is one of the vulnerability variables and y is a measure of power outage.
 
 
-Centred auto logistic models
+Logistic models
 
-Fit two centred auto logistic regression models to examine the association between each of vulnerability measures and the binary dependent variable measuring whether a county experienced a severe outage, on both the relative and absolute scales
+Fit two logistic regression models to examine the association between each of vulnerability measures and the binary dependent variable measuring whether a county experienced a severe outage, on both the relative and absolute scales
 
 Perform sensitivity analysis at the end to check model robustness
 
