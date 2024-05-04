@@ -6,18 +6,13 @@ HURRICANE IAN
 
 Among the 19 hurricanes that made landfall between 2017 and 2023, Hurricane Ian (2022) has been selected for the landfall in Florida USA.
 
-
 The data we have contains up to 90 days of power outage after hurricane landfall. This is to monitor the recovery of the power overtime to see which county recover faster and why. The main aim is to find the correlation between the duration of power restoration and socioeconomic factors. 
 
-Clusters analysis- K-means clustering, hierarchical clustering, and DBSCAN.
+Clusters analysis- Using K-means clustering and DBSCAN, this is to check correlation between duration of power outage duration/severity and socioeconomic factors and hurricane wind impact speed. 
 
-Find correlation between power outage (spatial lag y) and the factors (x) under consideration. This is characterized by the association between the values of x in a county and the spatial lag of y (the average value of neighbouring counties), where x is one of the vulnerability variables and y is a measure of power outage.
+Predicton of county social vulnerability index- Using multtiple regression, logistics model and neuran network model. 
+
+The project will give insight on how power effect of power outage is distributed within counties in Florida based on their social vulnerability and severity of the hurricane impact. This will help the relevent agencies to know which area is to be prioritised for restoring power due presence of higher vulnerable population or due high exposure to the hurricane impact 
 
 
-Logistic models
-
-Fit two logistic regression models to examine the association between each of vulnerability measures and the binary dependent variable measuring whether a county experienced a severe outage, on both the relative and absolute scales
-
-Perform sensitivity analysis at the end to check model robustness
-
-Choose range of recovery time (Within the hurricane impact date or outside)
+The project sets out to provide a comprehensive analysis of the distribution of power outage effects across counties in Florida, with a focus on understanding the interplay between social vulnerability and the severity of hurricane impact. By examining these critical factors in tandem, the aim is to offer valuable insights that can inform decision-making processes for relevant agencies and stakeholders. Through this analysis, decision-makers will gain a clearer understanding of which areas are most in need of priority attention when it comes to power restoration efforts. This approach will enable the efficient allocation of resources and assistance to communities that are particularly vulnerable or have been disproportionately affected by the impact of hurricanes. Ultimately, the project seeks to enhance the resilience of communities in the face of power outages by providing evidence-based guidance on where to direct support and resources to mitigate the adverse effects of such events.
