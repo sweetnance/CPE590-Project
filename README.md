@@ -12,7 +12,4 @@ Clusters analysis- Using K-means clustering and DBSCAN, this is to check correla
 
 Predicton of county social vulnerability index- Using multtiple regression, logistics model and neuran network model. 
 
-The project will give insight on how power effect of power outage is distributed within counties in Florida based on their social vulnerability and severity of the hurricane impact. This will help the relevent agencies to know which area is to be prioritised for restoring power due presence of higher vulnerable population or due high exposure to the hurricane impact 
-
-
 The project sets out to provide a comprehensive analysis of the distribution of power outage effects across counties in Florida, with a focus on understanding the interplay between social vulnerability and the severity of hurricane impact. By examining these critical factors in tandem, the aim is to offer valuable insights that can inform decision-making processes for relevant agencies and stakeholders. Through this analysis, decision-makers will gain a clearer understanding of which areas are most in need of priority attention when it comes to power restoration efforts. This approach will enable the efficient allocation of resources and assistance to communities that are particularly vulnerable or have been disproportionately affected by the impact of hurricanes. Ultimately, the project seeks to enhance the resilience of communities in the face of power outages by providing evidence-based guidance on where to direct support and resources to mitigate the adverse effects of such events.
